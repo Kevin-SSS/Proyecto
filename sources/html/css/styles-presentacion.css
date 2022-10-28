@@ -1159,6 +1159,10 @@ table{
 /* mobile */
 
 @media (max-width: 767px){
+	
+	.icono-web{
+		width: 7wh;
+	}
 
 	header h1{
 		padding: 20px 15px;
